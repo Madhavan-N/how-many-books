@@ -17,6 +17,7 @@
 		"eject": "react-scripts eject",
 		"deploy": "npm run build&&gh-pages -d build"
 	},
+	"homepage": "https://madhavan-n.github.io/how-many-books/",
 	"devDependencies": {
 		"gh-pages": "^1.2.0"
 	}
